@@ -5,5 +5,3 @@ text something something
 text2
 
 text3
-
-asd
