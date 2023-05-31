@@ -1,3 +1,22 @@
 body {
   font-size: 1em;
+  margin: 0px ;
+  padding: 0px;
 }
+
+.container {
+
+  background-color: #2cc185;
+  font-size: medium;
+  width: 700px;
+  margin: 0px auto ;
+  min-height: 600px;
+  
+  
+}
+
+.container h1 {
+  text-align: center;
+
+}
+
