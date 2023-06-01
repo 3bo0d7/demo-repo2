@@ -2,21 +2,42 @@ body {
   font-size: 1em;
   margin: 0px ;
   padding: 0px;
+  width: 100%;
 }
 
 .container {
 
-  background-color: #2cc185;
   font-size: medium;
-  width: 700px;
+  width: 100%;
   margin: 0px auto ;
   min-height: 600px;
-  
-  
 }
 
 .container h1 {
   text-align: center;
+  
+}
 
+.header {
+  background-color: #2cc185;
+min-height: 100px;
+}
+
+.col {
+  /*border: 1px dashed firebrick;*/
+  margin: 0px;
+  padding: 0px;
+}
+
+.row {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+
+.content {
+  background-color: #545454;
+  color: #f4f4f4;
+  min-height: 1600px;
 }
 
