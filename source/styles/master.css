@@ -20,7 +20,12 @@ body {
 
 .header {
   background-color: #2cc185;
-min-height: 100px;
+  min-height: 100px;
+}
+
+.header-adjust {
+  background-color: #2cc185;
+  min-height: auto;
 }
 
 .col {
