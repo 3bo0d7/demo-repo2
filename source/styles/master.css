@@ -5,6 +5,11 @@ body {
   width: 100%;
 }
 
+.logo {
+
+  background: url(#/assets/logo.svg);
+}
+
 .container {
 
   font-size: medium;
@@ -44,5 +49,12 @@ body {
   background-color: #545454;
   color: #f4f4f4;
   min-height: 1600px;
+}
+
+.navbar-top{
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+
 }
 
